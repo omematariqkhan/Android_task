@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginTask</string>
+
+    <!-- Register screen -->
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="create_account">Create Account</string>
+</resources>
